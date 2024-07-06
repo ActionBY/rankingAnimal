@@ -1,13 +1,13 @@
-#imageNews{
+#imageNews {
     width: 75px;
     height: auto;
     margin-left: 15%;
 }
 
-body{
+body {
     margin-left: 25%;
     margin-right: 25%;
-    background-color:rgb(231, 212, 188) ;
+    background-color: rgb(192, 185, 177);
 }
 
 img {
@@ -21,18 +21,16 @@ p {
     width: 900px;
 }
 
-.header-container{
+.header-container {
     display: flex;
 }
 
 .sumario-container {
-    background-color: rgba(18, 78, 142, 0.271);
+    background-color: rgba(255, 255, 255, 0.271);
     margin-left: 40%;
     font-family: Arial, Helvetica, sans-serif;
     border: 2px solid black;
     width: 250px;
     border-radius: 5%;
-    border-color: purple;    
+    border-color: purple;
 }
-
-
